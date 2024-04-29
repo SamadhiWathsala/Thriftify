@@ -1,0 +1,529 @@
+.home-products-contact6,
+.thriftify5 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.thriftify5 {
+  margin: 0;
+  width: 165px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.home-products-contact6 {
+  align-self: stretch;
+  height: 25px;
+  white-space: pre-wrap;
+}
+.home-products-contact-us-about-wrapper3 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-2xl);
+  color: var(--dark-grey-fashion);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.frame-wrapper16,
+.home-products-contact-us-about-wrapper3,
+.thriftify-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.thriftify-group {
+  width: 599px;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.frame-wrapper16 {
+  width: 682.4px;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+}
+.frame-child60 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-beige);
+  width: 100%;
+  height: 100%;
+}
+.iconlytwo-toneheart6 {
+  position: absolute;
+  top: 35.2px;
+  left: 1136.7px;
+  width: 21px;
+  height: 21.8px;
+  z-index: 1;
+}
+.iconlycurvedbuy6,
+.iconlytwo-toneadd-user6 {
+  position: absolute;
+  top: 35px;
+  left: 1213.4px;
+  width: 15.6px;
+  height: 22px;
+  z-index: 1;
+}
+.iconlycurvedbuy6 {
+  top: 34px;
+  left: 1061px;
+  width: 20.6px;
+  height: 25px;
+}
+.rectangle-parent21 {
+  height: 77px;
+  width: 1440px;
+  position: absolute;
+  margin: 0 !important;
+  top: -12px;
+  left: -3px;
+}
+.frame-child61 {
+  height: 36px;
+  width: 237px;
+  position: relative;
+  border-radius: var(--br-981xl);
+  display: none;
+}
+.frame-child62 {
+  width: 43px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  font-family: var(--font-ubuntu);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+}
+.search-alt-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  z-index: 2;
+}
+.frame-wrapper17,
+.vector-parent2 {
+  display: flex;
+  align-items: flex-start;
+}
+.vector-parent2 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-981xl);
+  background-color: var(--color-gainsboro);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-8xs) var(--padding-lgi) var(--padding-6xs)
+    var(--padding-15xl);
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.frame-wrapper17 {
+  height: 37px;
+  width: 239.3px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-child63 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--primary-yellow-fashion);
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.div13 {
+  position: absolute;
+  top: 3.5px;
+  left: 6.3px;
+  font-weight: 500;
+  display: inline-block;
+  width: 6.3px;
+  height: 13.9px;
+  min-width: 6.3px;
+  z-index: 3;
+}
+.ellipse-parent8,
+.frame-child64 {
+  height: 20px;
+  width: 18.2px;
+  position: relative;
+}
+.frame-child64 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--primary-yellow-fashion);
+  z-index: 2;
+}
+.div14 {
+  position: absolute;
+  top: 3.5px;
+  left: 6.3px;
+  font-weight: 500;
+  display: inline-block;
+  width: 6.3px;
+  height: 13.9px;
+  min-width: 6.3px;
+  z-index: 3;
+}
+.ellipse-parent9 {
+  height: 20px;
+  width: 47.7px;
+  position: relative;
+}
+.register-sign3 {
+  position: relative;
+  white-space: pre-wrap;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-parent38,
+.register-sign-in-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.frame-parent38 {
+  flex-direction: row;
+  padding: var(--padding-mini) var(--padding-15xl) var(--padding-smi)
+    var(--padding-16xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-37xl-6);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--dark-grey-fashion);
+  font-family: var(--font-ubuntu);
+}
+.frame-child65 {
+  min-height: 573px;
+}
+.frame-child65,
+.frame-child66 {
+  height: 572.5px;
+  width: 3px;
+  position: relative;
+}
+.welcome-to {
+  margin: 0;
+}
+.b {
+  font-family: var(--font-roboto);
+}
+.thriftify7 {
+  font-size: var(--font-size-29xl);
+}
+.thriftify6 {
+  margin: 0;
+  font-family: var(--font-ubuntu);
+}
+.welcome-to-thriftify-container {
+  height: 119px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+}
+.whatsapp-image-2024-03-14-at-2-icon {
+  height: 125.5px;
+  width: 160px;
+  position: absolute;
+  margin: 0 !important;
+  right: -54px;
+  bottom: -9.6px;
+  object-fit: contain;
+  z-index: 1;
+}
+.welcome-to-thriftify-parent {
+  width: 273px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.buy-more-in {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-risque);
+  color: var(--color-dimgray-100);
+}
+.frame-parent40,
+.frame-wrapper19 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent40 {
+  width: 288px;
+  flex-direction: column;
+  gap: var(--gap-lg);
+}
+.frame-wrapper19 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-23xl);
+}
+.frame-child67 {
+  height: 50px;
+  width: 369px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-beige);
+  display: none;
+  max-width: 100%;
+}
+.im-a-buyer {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  text-transform: uppercase;
+  font-family: var(--font-solway);
+  color: var(--color-dimgray-300);
+  text-align: left;
+  z-index: 1;
+}
+.frame-child68,
+.rectangle-parent22 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-beige);
+  max-width: 100%;
+}
+.rectangle-parent22 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-xl) var(--padding-3xs);
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.rectangle-parent22:hover,
+.rectangle-parent23:hover {
+  background-color: var(--color-darkseagreen-100);
+}
+.frame-child68 {
+  height: 50px;
+  width: 369px;
+  position: relative;
+  display: none;
+}
+.im-a-seller {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  text-transform: uppercase;
+  font-family: var(--font-solway);
+  color: var(--color-dimgray-300);
+  text-align: left;
+  z-index: 1;
+}
+.rectangle-parent23 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-xl) var(--padding-3xs)
+    var(--padding-4xl);
+  background-color: var(--color-beige);
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.frame-parent41,
+.frame-wrapper20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent41 {
+  width: 369px;
+  flex-direction: column;
+  gap: var(--gap-6xs);
+}
+.frame-wrapper20 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-10xl);
+  box-sizing: border-box;
+}
+.frame-child69 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-beige);
+  width: 145px;
+  height: 41px;
+}
+.log-in {
+  position: absolute;
+  top: 6px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 188px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-parent24 {
+  width: 223px;
+  height: 41px;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.frame-parent39 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-38xl);
+  max-width: 100%;
+}
+.frame-parent39,
+.frame-wrapper18,
+.vector-parent4 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-wrapper18 {
+  height: 510.5px;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: calc(100% - 183px);
+}
+.vector-parent4 {
+  align-self: stretch;
+  width: 630px;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 180px;
+  max-width: calc(100% - 23px);
+}
+.login-account-inner1,
+.vector-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.vector-parent3 {
+  align-self: stretch;
+  width: 1231.5px;
+  justify-content: space-between;
+  padding: 0;
+  gap: var(--gap-xl);
+}
+.login-account-inner1 {
+  width: 1407.5px;
+  height: 571px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+  font-family: var(--font-rouge-script);
+}
+.login-account5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  gap: 12px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .home-products-contact-us-about-wrapper3 {
+    display: none;
+  }
+  .thriftify-group {
+    width: 175px;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .welcome-to-thriftify-container {
+    font-size: var(--font-size-19xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .home-products-contact6,
+  .register-sign-in-frame,
+  .register-sign3 {
+    display: none;
+  }
+  .frame-parent38 {
+    gap: 56.6px 28px;
+  }
+  .vector-parent4 {
+    gap: 180px 90px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-child66 {
+    display: none;
+  }
+  .welcome-to-thriftify-container {
+    font-size: var(--font-size-10xl);
+  }
+  .buy-more-in {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-wrapper19 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .log-in {
+    font-size: var(--font-size-xl);
+  }
+  .frame-parent39 {
+    gap: 28px 57px;
+  }
+  .frame-wrapper18 {
+    max-width: 100%;
+  }
+  .vector-parent4 {
+    gap: 180px 45px;
+  }
+}

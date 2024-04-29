@@ -1,0 +1,155 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+		 /* Buttons */
+.btn-success {
+  color: #fff;
+  background-color: #28a745;
+  border-radius: 35px;
+  border: 1px solid rgba(21, 87, 36, 0.75);
+}
+ /* rating starts */
+.checked {
+  color: orange;
+}
+
+        /* Navbar CSS. */
+        .navbar {
+            background-color: #c3e6c8;
+            color: #fff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+        }
+
+        .navbar a {
+            color: #010000;
+            text-decoration: none;
+            margin: 0 15px;
+            padding: 5px 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        .navbar a:hover {
+            background-color: #c3e6c8;
+        }
+
+        .search-bar {
+            flex-grow: 1;
+            padding: 5px;
+			margin-left :60px;
+        }
+
+        .cart-icon {
+            font-size: 24px;
+            margin-left: 150px;
+	    margin-top: 100px;
+        }
+
+        .user-options {
+            display: flex;
+            align-items: center;
+        }
+
+        .user-options a {
+            margin-left: 50px;
+        }
+
+        @media (max-width: 768px) {
+            .navbar {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .user-options {
+                margin-top: 10px;
+			}
+			
+
+ /* buyer seller reg CSS. */
+.topic h2{
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: #a2d6a8;
+    color: black;
+    font-size:40px;
+    font-weight:bold;
+    padding: 10px 10px 10px 10px;
+    font-align:center;
+
+}
+
+
+.registration .input-box{
+	width:100px;
+	margin-top:20px;
+}
+
+.input-box .label{
+	color:#333;
+}
+
+.registration .input-box input{
+	position:relative;
+	height:50px;
+	width:650px;
+	outline:none
+	border:1px solid #ddd;
+	border-radius:6px;
+	padding:0 15px;
+	font-size:1rem;
+	color::#707070;
+	margin-top:8px;
+}
+
+.registration .column {
+	display: flex;
+	column-gap: 50px;
+	
+}
+
+.registration :where(.gender-option, .gender) {
+	display:flex;
+	column-gap:300px;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top:10px;
+	padding-left:30px;
+}
+
+.registration .gender {
+	column-gap:20px;
+	
+}
+.registration .gender-box{
+	margin-top:30px;
+
+
+}
+
+.registration :where(.gender input, .gender label) {
+	cursor: pointer;
+}
+.gender-box h3{
+	color:#333;
+	font-size:20px;
+		margin-bottom:8px;
+}
+@media screen and (max-width: 500px) {
+	.registration .column {
+		flex-wrap: wrap;
+	}
+}
+
+
+
+/*Footer*/

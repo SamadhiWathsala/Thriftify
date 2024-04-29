@@ -1,0 +1,938 @@
+.frame-child36 {
+  height: 77px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-beige);
+  display: none;
+  max-width: 100%;
+}
+.thiftify {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 1;
+}
+.thiftify-wrapper {
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  color: var(--color-black);
+}
+.home-products-contact3 {
+  width: 424px;
+  height: 25px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.home-products-contact-us-about-wrapper1 {
+  width: 490px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.email-input-child {
+  height: 36px;
+  width: 237px;
+  position: relative;
+  border-radius: var(--br-981xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.email-input-item {
+  width: 43px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  font-family: var(--font-ubuntu);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+}
+.search-alt-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  z-index: 2;
+}
+.email-input,
+.email-input-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.email-input {
+  flex: 1;
+  border-radius: var(--br-981xl);
+  background-color: var(--color-gainsboro);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-sm) var(--padding-9xs)
+    var(--padding-3xl);
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.email-input-wrapper {
+  width: 248.4px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 11.4px 0 0;
+  box-sizing: border-box;
+}
+.frame-child37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--primary-yellow-fashion);
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.iconlycurvedbuy3 {
+  height: 25px;
+  width: 20.6px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -14.6px;
+  left: -18.2px;
+  z-index: 1;
+}
+.div8 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 7px;
+  z-index: 3;
+}
+.iconlycurvedbuy-parent {
+  position: absolute;
+  top: 3.5px;
+  left: 6.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.ellipse-parent3 {
+  align-self: stretch;
+  height: 20px;
+  position: relative;
+}
+.whats-app-icon {
+  width: 27.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 9.1px 0 0;
+  box-sizing: border-box;
+}
+.frame-child38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--primary-yellow-fashion);
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.iconlytwo-toneheart3 {
+  height: 21.8px;
+  width: 21px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -12.6px;
+  left: -17.3px;
+  z-index: 1;
+}
+.div9 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 7px;
+  z-index: 3;
+}
+.iconlytwo-toneheart-container {
+  position: absolute;
+  top: 3.5px;
+  left: 6.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.ellipse-parent4 {
+  align-self: stretch;
+  height: 20px;
+  position: relative;
+}
+.whats-app-icon1 {
+  width: 18.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.iconlytwo-toneadd-user3 {
+  width: 15.6px;
+  height: 22px;
+  position: relative;
+  z-index: 1;
+}
+.iconlytwo-toneadd-user-container {
+  height: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+}
+.register-sign1 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.register-sign-in-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 0;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.frame-parent24,
+.rectangle-parent9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent24 {
+  height: 36px;
+  width: 643px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-xs);
+}
+.rectangle-parent9 {
+  align-self: stretch;
+  background-color: var(--color-beige);
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-16xl) var(--padding-6xl);
+  box-sizing: border-box;
+  gap: var(--gap-mini);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--dark-grey-fashion);
+  font-family: var(--font-ubuntu);
+}
+.frame-child39 {
+  height: 1047px;
+  width: 3px;
+  position: relative;
+  min-height: 1047px;
+}
+.image-37-icon,
+.whatsapp-image-2024-03-14-at-2 {
+  position: absolute;
+  top: 678px;
+  left: 0;
+  width: 601px;
+  height: 369px;
+  object-fit: cover;
+  z-index: 1;
+}
+.whatsapp-image-2024-03-14-at-2 {
+  top: 0;
+  height: 737px;
+  z-index: 2;
+}
+.image-37-parent {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.frame-child40 {
+  height: 1047px;
+  width: 3px;
+  position: relative;
+  min-height: 1047px;
+}
+.vector-parent1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  min-width: 393px;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.document-upload-button-child {
+  height: 50px;
+  width: 399px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkseagreen-200);
+  display: none;
+  max-width: 100%;
+}
+.seller {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-darkslategray-300);
+  text-align: left;
+  display: inline-block;
+  min-width: 83px;
+  z-index: 1;
+}
+.document-upload-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-xl) var(--padding-2xs) 28px;
+  background-color: var(--color-darkseagreen-200);
+  width: 399px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.document-upload-button:hover {
+  background-color: var(--color-darkseagreen-300);
+}
+.name {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 64px;
+}
+.n-i-c-passport-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.address-field {
+  height: 34px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-lightgray);
+  min-width: 259px;
+  max-width: 100%;
+}
+.n-i-c-passport-container-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-50xl);
+  max-width: 100%;
+}
+.address,
+.email,
+.grade {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 65px;
+}
+.address,
+.email {
+  min-width: 90px;
+}
+.email {
+  min-width: 60px;
+}
+.male-female-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs);
+}
+.password {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 107px;
+}
+.address-label,
+.n-i-c-passport-no-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.address-label {
+  gap: var(--gap-17xl);
+}
+.n-i-c-passport-no-label {
+  padding: var(--padding-10xs) 0 0;
+}
+.frame-child41 {
+  height: 34px;
+  width: 39px;
+  position: relative;
+  background-color: var(--color-lightgray);
+}
+.male {
+  position: relative;
+  display: inline-block;
+  min-width: 53px;
+}
+.male-wrapper,
+.rectangle-parent10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.male-wrapper {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.rectangle-parent10 {
+  flex-direction: row;
+  gap: var(--gap-9xl);
+}
+.frame-child42 {
+  height: 34px;
+  width: 39px;
+  position: relative;
+  background-color: var(--color-lightgray);
+}
+.female {
+  position: relative;
+  display: inline-block;
+  min-width: 79px;
+}
+.female-wrapper,
+.frame-parent28,
+.rectangle-parent11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.female-wrapper {
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.frame-parent28,
+.rectangle-parent11 {
+  flex-direction: row;
+  gap: var(--gap-8xl);
+}
+.frame-parent28 {
+  width: 324px;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-child43,
+.n-i-c-passport-field-child {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-lightgray);
+}
+.frame-child43 {
+  height: 34px;
+}
+.n-i-c-passport-field-child {
+  flex: 1;
+  max-width: 100%;
+}
+.n-i-c-passport-field1 {
+  align-self: stretch;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child44 {
+  align-self: stretch;
+  height: 34px;
+  position: relative;
+  background-color: var(--color-lightgray);
+}
+.frame-parent27 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  min-width: 259px;
+  max-width: 100%;
+}
+.n-i-c-passport-no-label-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.frame-parent26,
+.n-i-c-passport-no-label-parent,
+.upload-here-label {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent26 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+}
+.upload-here-label {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 var(--padding-7xs);
+  box-sizing: border-box;
+}
+.nicpassport-no {
+  position: relative;
+  font-weight: 600;
+}
+.nicpassport-no-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.mobile-number-input-child {
+  height: 34px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-lightgray);
+  min-width: 201px;
+}
+.mobile-number-input,
+.upload-document-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mobile-number-input {
+  flex: 1;
+  gap: var(--gap-9xl);
+}
+.upload-document-button {
+  align-self: stretch;
+  padding: 0 var(--padding-6xs) 0 var(--padding-10xs);
+  box-sizing: border-box;
+}
+.nicpassport-upload-document {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  max-width: 100%;
+}
+.password-input-field-child,
+.upload-here {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 310px;
+  height: 34px;
+}
+.upload-here {
+  top: 2.5px;
+  left: 84px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 277px;
+  height: 29px;
+  z-index: 1;
+}
+.password-input-field {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 34px;
+  width: 361px;
+  position: relative;
+  max-width: 100%;
+}
+.address-input-field {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.email-input-field,
+.grade-address-password-contain {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.grade-address-password-contain {
+  flex: 1;
+  flex-direction: column;
+  gap: 25.5px;
+}
+.email-input-field {
+  width: 422px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.mobile-number {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.mobile-number-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.footer-links-container {
+  height: 34px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-lightgray);
+  min-width: 213px;
+  max-width: 100%;
+}
+.frame-parent29,
+.mobile-number-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent29 {
+  flex: 1;
+  gap: var(--gap-19xl);
+}
+.mobile-number-label {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.bank-informations {
+  position: relative;
+  line-height: 29px;
+  font-weight: 600;
+}
+.vuesaxlineararrow-down-icon {
+  width: 18.5px;
+  height: 18.5px;
+  position: relative;
+  object-fit: contain;
+}
+.bank-informations-parent,
+.vuesaxlineararrow-down-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vuesaxlineararrow-down-wrapper {
+  height: 25.5px;
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.bank-informations-parent {
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.email-input-field-parent,
+.search-alt-button {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.search-alt-button {
+  display: flex;
+  align-items: flex-start;
+  gap: 37px;
+  max-width: 100%;
+}
+.email-input-field-parent {
+  gap: 31.5px;
+}
+.email-input-field-parent,
+.register-button-wrapper,
+.register-button1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.register-button1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.register-button-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.n-i-c-passport-field {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  max-width: 100%;
+}
+.frame-child45 {
+  height: 45px;
+  width: 150px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-beige);
+  display: none;
+}
+.register {
+  height: 30px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-family: var(--font-roboto);
+  color: #606060;
+  text-align: left;
+  min-width: 76px;
+  z-index: 1;
+}
+.frame-wrapper12,
+.rectangle-parent12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent12 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs) var(--padding-18xl) var(--padding-6xs);
+  background-color: var(--color-beige);
+  border-radius: var(--br-mini);
+  justify-content: flex-start;
+}
+.rectangle-parent12:hover {
+  background-color: var(--color-darkseagreen-100);
+}
+.frame-wrapper12 {
+  width: 514px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-wrapper11,
+.n-i-c-passport-field-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.n-i-c-passport-field-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 141px;
+}
+.frame-wrapper11 {
+  width: 538px;
+  align-items: flex-start;
+  padding: var(--padding-23xl) 0 0;
+  box-sizing: border-box;
+  min-width: 538px;
+}
+.frame-parent25,
+.register-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent25 {
+  width: 1205px;
+  justify-content: flex-start;
+  gap: 63px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.register-button {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  box-sizing: border-box;
+}
+.login-account2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1300px) {
+  .home-products-contact-us-about-wrapper1 {
+    display: none;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .home-products-contact3 {
+    display: none;
+  }
+  .home-products-contact-us-about-wrapper1 {
+    width: 66px;
+  }
+  .register-sign1 {
+    display: none;
+  }
+  .frame-wrapper11 {
+    flex: 1;
+    padding-top: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .frame-parent25 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .vector-parent1 {
+    min-width: 100%;
+  }
+  .n-i-c-passport-container-parent {
+    flex-wrap: wrap;
+    gap: 69px 34px;
+  }
+  .mobile-number-input,
+  .n-i-c-passport-no-label-parent {
+    flex-wrap: wrap;
+  }
+  .frame-parent29 {
+    flex-wrap: wrap;
+    gap: 38px 19px;
+  }
+  .search-alt-button {
+    gap: 18px 37px;
+  }
+  .email-input-field-parent {
+    gap: 16px 31.5px;
+  }
+  .register-button1 {
+    gap: 20px 40px;
+  }
+  .n-i-c-passport-field {
+    gap: 25px 50px;
+  }
+  .n-i-c-passport-field-parent {
+    gap: 70px 141px;
+  }
+  .frame-wrapper11 {
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .frame-parent25 {
+    gap: 63px 31px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .name,
+  .seller {
+    font-size: var(--font-size-lgi);
+  }
+  .n-i-c-passport-container-parent {
+    gap: 69px 17px;
+  }
+  .address,
+  .bank-informations,
+  .email,
+  .female,
+  .grade,
+  .male,
+  .mobile-number,
+  .nicpassport-no,
+  .nicpassport-upload-document,
+  .password,
+  .upload-here {
+    font-size: var(--font-size-lgi);
+  }
+  .register {
+    font-size: var(--font-size-base);
+  }
+  .n-i-c-passport-field-parent {
+    gap: 35px 141px;
+  }
+  .frame-parent25 {
+    gap: 63px 16px;
+  }
+}

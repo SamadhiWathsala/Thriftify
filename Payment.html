@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Gateway</title>
+  <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="footerstyle.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> 
+</head>
+<body>
+<div class= "mainbody">
+<nav class="navbar navbar-inverse"style="background-color:#c3e6c8;color: black;color:black;font-weight: bold;">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand"  href="#"style="color:black;font-weight: bold;padding-top:15px;">Thriftyfy</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="HomePage.HTML"style="color:black;font-weight: bold; background-color:#c3e6c8;">Home</a></li>
+      <li><a href="Product.HTML"style="color:black;font-weight: bold;" >Products</a></li>
+      <li><a href="contact.HTML" style="color:black;font-weight: bold;" >Contact Us</a></li>
+	  <li><a href="contact.HTML" style="color:black;font-weight: bold;" >About Us</a></li>
+    </ul>
+    <form class="navbar-form navbar-left" action="/action_page.php">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search" name="search">
+        <div class="input-group-btn">
+          <button class="btn btn-default" type="submit">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+     </ul><a href="cart.HTML">
+	 <span class="cart-icon">&#128722;</span></a>
+    <ul class="nav navbar-nav navbar-right">
+	<li><a href="index.html"><span class=""></span> Add Product</a></li>
+
+      <li><a href=""><span class="glyphicon glyphicon-user"></span> My Account</a></li>
+     
+    </ul>
+  </div>
+</nav>
+
+<div class="container-fluid">
+ <div class="row">
+
+    <div class="col-sm-6" "><h1 class="mt-5">Payment Details</h1>
+	<div class="col-sm-6" "><h4 class="mt-5">Payment Method</h4>
+	<div class="form-check">
+		  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+		  <label class="form-check-label" for="flexRadioDefault1">
+			COD
+		  </label>
+		</div>
+		<div class="form-check">
+		  <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+		  <label class="form-check-label" for="flexRadioDefault2">
+			Card Payment
+		  </label>
+		</div>
+	<br>
+</div>	
+	
+	
+	
+	
+	
+    <br>
+
+    <!-- Card Details Section -->
+    <div class="card mt-5">
+        <div class="card-body">
+            <h5 class="card-title">Enter Card Details</h5>
+            <form>
+			
+			
+                <div class="mb-3">
+                    <label for="cardNumber" class="form-label">Card Number</label>
+                    <input type="text" class="form-control" id="cardNumber" placeholder="Enter card number" required>
+                </div>
+<br>
+		<div class="mb-3">
+                    <label for="cardholdername" class="form-label">Card Holder Name</label>
+                    <input type="text" class="form-control" id="cardholdername" placeholder="Enter Card Holder Name" required>
+                </div>
+<br>
+                <div class="mb-3">
+                    <label for="expiryDate" class="form-label">Expiry Date</label>
+                    <input type="text" class="form-control" id="expiryDate" placeholder="MM/YYYY" required>
+                </div>
+<br>
+                <div class="mb-3">
+                    <label for="cvv" class="form-label">CVV</label>
+                    <input type="text" class="form-control" id="cvv" maxlength="3" placeholder="CVV" required>
+                </div>
+<br>
+				<br><br>
+				<h3 class="card-title">Shipping Details</h5> 
+<br>
+				<div class="mb-3">
+                    <label for="cusname" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="cusname" required>
+                </div>
+<br>
+				<div class="mb-3">
+                    <label for="cusaddress" class="form-label">Address</label>
+                    <input type="text" class="form-control" id="cusaddress"  required>
+                </div>
+<br>
+                <div class="mb-3">
+                    <label for="contactno" class="form-label">Mobile Number</label>
+                    <input type="text" class="form-control" id="contactno" maxlength="10" placeholder="07********" required>
+                </div>
+<br>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="text" class="form-control" id="email" required>
+                </div>
+
+				
+				
+				
+				
+				
+				
+				<br>
+				<div class="form-check">
+				  <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+				  <label class="form-check-label" for="flexCheckDefault">
+					Shipping address is same as Home address.
+				  </label>
+				</div>
+				<div class="form-check">
+				  <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+				  <label class="form-check-label" for="flexCheckChecked">
+					Shipping address is different.
+				  </label>
+				</div>
+				
+				
+            </form>
+        </div>
+    </div>
+  </div>
+	<br> <br> <br> <br> <br> 
+    <div class="col-sm-6" "><br> <br> <br>     <!-- Order Details Section -->
+		<div class="card mt-5">
+			<div class="card-body">
+				<h5 class="card-title">Order Details</h5>
+				<h6 class="card-title">Your Order</h6>
+				<div class="row">
+					<div class="col-md-3">
+						<img src="images\item1.png" style="width:400px;" class="img-thumbnail" alt="Product Image">
+					</div>
+						
+					<div class="col-md-9">
+						<p>Product Name: Lorem ipsum dolor sit amet</p>
+						<p>Price	: $100.00</p>
+						<p>Quantity	: 1</p>
+						<p>Delivery	: $10.00</p>
+						<p>Total	: $110.00</p>
+					</div>
+				</div>
+			</div>
+		</div>
+			
+	<!-- Go Back Button --><a href="cart.HTML">
+		<button type="button" style="background-color:#c3e6c8;color:black;font-weight: bold;padding: 10px;margin-left: 350px; margin-top: 600px; width:100px;" class="btn btn-primary mt-5">Go Back</button> </a>
+
+		<!-- Pay Now Button --><a href="SuccessfulMsg.HTML">
+		<button type="button" style="background-color:#c3e6c8;color:black;font-weight: bold;padding: 10px;margin-left: 100px; margin-top: 600px; width:100px;" class="btn btn-primary mt-5">Pay Now</button> </a>
+	</div>
+   
+  
+  
+  
+  
+  
+
+  
+</div>
+  <br><br><br>
+<div class="footer">
+<div class="container-fluid container2">r
+            <div class="set set-1">
+                <a class="navbar-brand" href="#"
+                    style="color:black;font-weight: bold;padding-top:55px; padding-left: 80px; font-size:xx-large;">Thriftyfy</a>
+            </div>
+            <div class="set set-2" style="">
+                <h4><b>Help</b></h4>
+                <a href="" style="color:black;">
+                    <p>Privacy Policy</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Shipping & Delivery</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Refund Policy</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Track Your Order</p>
+                </a>
+            </div>
+            <div class="set set-3">
+                <h4><b>Store</b></h4>
+                <a href="" style="color:black;">
+                    <p>Privacy Policy</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Men Fashion</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Women Fashin</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Kids Fashion</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Other</p>
+                </a>
+
+
+            </div>
+            <div class="set set-4">
+                <h4><b>Support</b></h4>
+                <a href="" style="color:black;">
+                    <p>Feedback</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Contact Us</p>
+                </a>
+                <a href="" style="color:black;">
+                    <p>Terms & Conditions</p>
+                </a>
+            </div>
+	
+    
+ 
+</div>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+
+</div>
+</body>
+</html>

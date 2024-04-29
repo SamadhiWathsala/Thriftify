@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+	background-color:white;
+}
+
+/* Navbar CSS. */
+.navbar {
+    background-color: #c3e6c8;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.navbar a {
+    color: #010000;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+}
+
+.navbar a:hover {
+    background-color: #c3e6c8;
+}
+
+.search-bar {
+    flex-grow: 1;
+    padding: 5px;
+    margin-left: 60px;
+}
+
+.cart-icon {
+    font-size: 24px;
+    margin-left: 220px;
+}
+
+.user-options {
+    display: flex;
+    align-items: center;
+}
+
+.user-options a {
+    margin-left: 10px;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .user-options {
+        margin-top: 10px;
+    }
+}
+
+.main-content {
+    display: flex;
+    background-color: white;
+    min-height: 500px;
+}
+
+.eye-icon {
+    position: absolute;
+	top: 60%;
+	
+	padding:-20px;
+    right: 50px;
+    transform: translateY(-10%);
+    cursor: pointer;
+}
+
+.eye-icon.glyphicon-eye-open {
+    display: fixed;
+}
+
+.imageSide {
+    padding: 10px;
+    flex: 45%;
+    background-color: #A6CED3;
+}
+
+.ImageSide1 {
+    background-color: white;
+    padding: 10px;
+    flex: 55%;
+}
+
+.ImageSide img {
+    width: 150px;
+}

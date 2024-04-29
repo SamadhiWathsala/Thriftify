@@ -1,0 +1,37 @@
+/*footer styles*/
+
+.container2{
+    display: grid;
+    background-color: #c3e6c8;
+    grid-template-columns: 7fr 4fr 4fr 4fr ;
+    grid-auto-rows: minmax(auto,auto);
+    grid-column-gap:1rem ;
+    grid-row-gap:2rem ;
+
+    grid-template-areas:
+         "a b c d";
+
+}
+.set-1{
+    grid-area: a;
+}
+.set-2{
+    grid-area: b;
+}
+.set-3{
+    grid-area: c;
+}
+.set-4{
+    grid-area: d;
+}
+.brand{
+    box-align: center;
+}
+.set{
+    padding-top: 50px;
+    color:black;
+    
+}
+.container1{
+    background-color: #c3e6c8;
+}

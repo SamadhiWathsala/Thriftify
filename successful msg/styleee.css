@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+   
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    grid-auto-rows: minmax(auto,auto);
+    grid-column-gap:1rem ;
+    grid-row-gap:1rem ;
+
+    grid-template-areas:
+         "a  b  b"
+         "c b b";
+
+}
+.image{
+    grid-area: a;
+    
+}
+
+.svg{
+    grid-area: b;
+    
+}
+
+.order{
+    grid-area: b;
+}

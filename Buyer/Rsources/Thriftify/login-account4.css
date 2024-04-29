@@ -1,0 +1,395 @@
+.frame-child54 {
+  height: 77px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-beige);
+  display: none;
+  max-width: 100%;
+}
+.thriftify4 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 1;
+}
+.thriftify-wrapper {
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  color: var(--color-black);
+}
+.home-products-contact5 {
+  margin: 0;
+  width: 424px;
+  height: 25px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.home-products-contact-us-about-wrapper2 {
+  width: 526px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-abhaya-libre-semibold);
+}
+.frame-child55 {
+  height: 36px;
+  width: 237px;
+  position: relative;
+  border-radius: var(--br-981xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.frame-child56 {
+  width: 43px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  font-family: var(--font-ubuntu);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+}
+.search-alt-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  z-index: 2;
+}
+.rectangle-parent19 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-981xl);
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-mini) var(--padding-9xs)
+    var(--padding-base);
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.frame-child57 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--primary-yellow-fashion);
+  width: 18.2px;
+  height: 20px;
+  z-index: 2;
+}
+.iconlycurvedbuy5 {
+  height: 25px;
+  width: 20.6px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -14.6px;
+  left: -18.2px;
+  z-index: 1;
+}
+.div11 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 6.3px;
+  z-index: 3;
+}
+.iconlycurvedbuy-group {
+  position: absolute;
+  top: 3.5px;
+  left: 6.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-parent6 {
+  height: 20px;
+  width: 27.3px;
+  position: relative;
+}
+.frame-child58 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--primary-yellow-fashion);
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.iconlytwo-toneheart5 {
+  height: 21.8px;
+  width: 21px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -12.7px;
+  left: -17.3px;
+  z-index: 1;
+}
+.div12 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 6.3px;
+  z-index: 3;
+}
+.iconlytwo-toneheart-parent2 {
+  position: absolute;
+  top: 3.5px;
+  left: 6.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-parent7 {
+  height: 20px;
+  width: 18.2px;
+  position: relative;
+}
+.iconlytwo-toneadd-user5 {
+  width: 15.6px;
+  height: 22px;
+  position: relative;
+  z-index: 1;
+}
+.iconlytwo-toneadd-user-frame {
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-parent36 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent35,
+.frame-wrapper14,
+.rectangle-parent18 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper14 {
+  width: 156.1px;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-parent35,
+.rectangle-parent18 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent35 {
+  height: 36px;
+  width: 498px;
+  gap: var(--gap-85xl-9);
+  font-size: var(--font-size-xs);
+}
+.rectangle-parent18 {
+  align-self: stretch;
+  background-color: var(--color-beige);
+  padding: var(--padding-base) var(--padding-16xl) var(--padding-6xl);
+  box-sizing: border-box;
+  gap: 33px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--dark-grey-fashion);
+  font-family: var(--font-ubuntu);
+}
+.whatsapp-image-2024-03-14-at-21 {
+  height: 211px;
+  width: 260px;
+  position: relative;
+  object-fit: cover;
+}
+.success-widget-with-additional {
+  height: 158px;
+  flex: 1;
+  position: relative;
+  border-radius: 10.08px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.success-widget-with-additional-wrapper {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 6.8px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child59 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: #f84848;
+  width: 172px;
+  height: 32px;
+}
+.cancel-order {
+  margin: 0;
+  position: absolute;
+  top: 6px;
+  left: 30px;
+  font-size: inherit;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  width: 166px;
+  height: 20px;
+  z-index: 1;
+}
+.rectangle-parent20 {
+  width: 196px;
+  height: 32px;
+  position: relative;
+}
+.frame-parent37 {
+  align-self: stretch;
+  height: 262px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 72px;
+  max-width: 100%;
+}
+.frame-wrapper15,
+.whatsapp-image-2024-03-14-at-2-parent {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper15 {
+  flex-direction: column;
+  padding: var(--padding-8xl) 0 0;
+  box-sizing: border-box;
+  min-width: 633px;
+}
+.whatsapp-image-2024-03-14-at-2-parent {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+.login-account-child,
+.login-account4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.login-account-child {
+  width: 1376px;
+  flex-direction: row;
+  padding: 0 70px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.login-account4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 264px;
+  gap: 77px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .home-products-contact-us-about-wrapper2 {
+    display: none;
+  }
+  .login-account-child {
+    padding-left: var(--padding-16xl);
+    padding-right: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-parent37 {
+    gap: 36px 72px;
+  }
+  .frame-wrapper15 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .home-products-contact5 {
+    display: none;
+  }
+  .home-products-contact-us-about-wrapper2 {
+    width: 102px;
+  }
+  .frame-parent35 {
+    gap: 104.9px 52px;
+  }
+  .rectangle-parent18 {
+    gap: 33px 16px;
+  }
+  .frame-parent37 {
+    gap: 18px 72px;
+  }
+  .login-account4 {
+    gap: 38px 77px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cancel-order {
+    font-size: var(--font-size-base);
+  }
+  .login-account4 {
+    gap: 19px 77px;
+  }
+}

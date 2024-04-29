@@ -1,0 +1,231 @@
+ * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        /* Navbar CSS. */
+        .navbar {
+            background-color: #c3e6c8;
+            color: #fff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+        }
+
+        .navbar a {
+            color: #010000;
+            text-decoration: none;
+            margin: 0 15px;
+            padding: 5px 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        .navbar a:hover {
+            background-color: #c3e6c8;
+        }
+
+        .search-bar {
+            flex-grow: 1;
+            padding: 5px;
+			margin-left :60px
+        }
+
+        .cart-icon {
+            font-size: 24px;
+            margin-left:220px;
+        }
+
+        .user-options {
+            display: flex;
+            align-items: center;
+        }
+
+        .user-options a {
+            margin-left: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .navbar {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .user-options {
+                margin-top: 10px;
+			}
+
+
+
+             
+            }
+
+
+}
+
+body {
+    background-color: #CCCCCC;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+
+}
+
+.header {
+    padding: 1px 10px 1px 10px;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    background-color: #002F66;
+}
+
+.header h1 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+
+}
+
+.header p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+}
+
+.main-content {
+    display: flex;
+
+}
+
+.sidebar {
+    padding: 10px;
+    flex: 25%;
+    background-color: #A6CED3;
+}
+
+.sidebar h2 {
+    color: #002F66;
+    margin-bottom: 2px;
+}
+
+.sidebar input {
+    margin-top: 3px;
+    margin-bottom: 7px;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+input[type=submit] {
+    width: 40%;
+    border: none;
+    background-color: #002F66;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: 3px;
+
+}
+
+.content {
+    background-color: white;
+    padding: 10px;
+    flex: 75%;
+
+}
+
+.content img {
+    width: 750px;
+}
+
+.topic h2{
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: #a2d6a8;
+    color: black;
+    font-size:40px;
+    font-weight:bold;
+    padding: 10px 10px 10px 10px;
+    font-align:center;
+
+}
+
+
+.registration .input-box{
+	width:300px;
+	margin-top:20px;
+}
+
+.input-box .label{
+	color:#333;
+}
+
+.registration .input-box input{
+	position:relative;
+	height:50px;
+	width:700px;
+	outline:none
+	border:1px solid #ddd;
+	border-radius:6px;
+	padding:0 15px;
+	font-size:1rem;
+	color::#707070;
+	margin-top:8px;
+}
+
+.registration .column {
+	display: flex;
+	column-gap: 50px;
+	
+}
+
+.registration :where(.gender-option, .gender) {
+	display:flex;
+	column-gap:300px;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top:10px;
+	padding-left:30px;
+}
+
+.registration .gender {
+	column-gap:20px;
+	
+}
+.registration .gender-box{
+	margin-top:30px;
+
+
+}
+
+.registration :where(.gender input, .gender label) {
+	cursor: pointer;
+}
+.gender-box h3{
+	color:#333;
+	font-size:20px;
+		margin-bottom:8px;
+}
+@media screen and (max-width: 500px) {
+	.registration .column {
+		flex-wrap: wrap;
+	}
+}
+
+
+.footer {
+    min-height: 50px;
+    padding: 1px 10px 1px 10px;
+    color: white;
+    background-color: #a2d6a8;
+    border-radius: 0px 0px 10px 10px;
+}
